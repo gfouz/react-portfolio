@@ -21,11 +21,9 @@ const bottom = css`
 const normal = css`
   position: static;
 `;
-
 export const Headline = styled.div<IProps>`
   width: 100%;
   cursor: pointer;
-  height: fit-content;
   ${(props) => (props.bottom ? bottom : normal)};
   color: ${(props) => props.color};
   margin: ${(props) => props.m};

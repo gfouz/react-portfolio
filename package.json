@@ -1,8 +1,8 @@
 {
   "name": "vite-react-ts-eslint-prettier",
-  "homepage": "https://gfouz.github.io/react-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://gfouz.github.io/react-portfolio",
   "scripts": {
     "write": "node public/jsongenerate.js",
     "dev": "vite",
@@ -63,9 +63,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gfouz/gfouz-overview.git"
+    "url": "git+https://github.com/gfouz/react-portfolio.git"
   },
   "author": "",
   "license": "ISC",
-  
+  "bugs": {
+    "url": "https://github.com/gfouz/react-portfolio/issues"
+  }
 }

@@ -7,8 +7,7 @@ interface IHeader {
 
 export const Header = styled.header`
   grid-area: header;
-  line-height: 60px;
-  height: 60px;
+  padding: 1em;
   text-align: center;
   color: ${(props: IHeader) => props.color || '#fff4a3'};
   background-color: ${(props: IHeader) => props.bg || '#000000'};

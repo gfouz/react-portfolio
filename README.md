@@ -1,8 +1,8 @@
 <h1 align='center'>Vite + React + TypeScript + Eslint + Prettier Template ⚡</h1>
 
-https://github.com/gfouz/gfouz-overview
+https://github.com/gfouz/react-portfolio
 
-## deployment path: https://gfouz.github.io/gfouz-overview/
+## deployment path: https://gfouz.github.io/react-portfolio/
 
 Create a new project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
 
@@ -92,4 +92,4 @@ npm install --save @types/react-syntax-highlighter
 
 \WinSxS
 
-### "homepage": "https://gfouz.github.io/gfouz-overview",
+https://gfouz.github.io/react-portfolio/
